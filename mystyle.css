@@ -96,6 +96,16 @@ img.img_robot {
 	height:315px;
 }
 
+img.img_zones {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:800px;
+	height:388px;
+}
+
+
 img.attachemnt_img {
 	margin-top: 5px;
 	margin-bottom: 5px;
