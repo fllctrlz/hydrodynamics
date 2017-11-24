@@ -87,6 +87,15 @@ img.vertical_img {
 	height:682px;
 }
 
+img.img_robot {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:420px;
+	height:315px;
+}
+
 img.attachemnt_img {
 	margin-top: 5px;
 	margin-bottom: 5px;
