@@ -155,6 +155,17 @@ img.img_buffalo {
 	height:222px;
 }
 
+img.img_team {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:590px;
+	height:510px;
+	float:left;
+}
+
+
 #problem {
 	line-height:30px;
 }
