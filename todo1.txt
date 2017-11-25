@@ -6,3 +6,4 @@ Project images
 CHANGE THE HIERACHY
 Robot busling images
 main page better resolution
+add picture the bottom of the robot
