@@ -87,6 +87,25 @@ img.vertical_img {
 	height:682px;
 }
 
+img.img_robot {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:420px;
+	height:315px;
+}
+
+img.img_zones {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:800px;
+	height:388px;
+}
+
+
 img.attachemnt_img {
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -154,6 +173,17 @@ img.img_buffalo {
 	width:868px;
 	height:222px;
 }
+
+img.img_team {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	width:590px;
+	height:510px;
+	float:left;
+}
+
 
 #problem {
 	line-height:30px;
