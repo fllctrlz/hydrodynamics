@@ -115,11 +115,25 @@ img.attachemnt_img {
 	height:266px;
 }
 
+
 img.sponsor {
-	width:307px; 
-	height:127px; 
+	width:337px; 
+	height:140px; 
 	padding:4px;
 }
+
+img.sponsorshort {
+	width:337px; 
+	height:110px; 
+	padding:4px;
+}
+
+img.sponsorlong {
+	width:337px; 
+	height:195px; 
+	padding:4px;
+}
+
 
 img.nasa1 {
 	margin-top: 5px;
